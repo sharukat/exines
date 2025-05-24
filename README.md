@@ -16,4 +16,4 @@ Lab websites play a vital role in showcasing research, sharing publications, and
   </a>
 </p>
 
-🌐 [Check Out the Live Site](https://maleknazn.ca)
+[Check Out the Live Site](https://maleknazn.ca)
