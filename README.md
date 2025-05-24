@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EXINES Software Engineering Lab Website
+This is a dynamic, full-stack lab website built with Next.js, TypeScript, and Tailwind CSS, featuring a headless CMS powered by Sanity.io. It showcases lab information, team profiles, research projects, publications, events, and onboarding details. Secure content management is enabled through Clerk for authentication and authorization, allowing lab members to manage content effortlessly.
 
-## Getting Started
+## 🌱 Motivation
+Lab websites play a vital role in showcasing research, sharing publications, and attracting collaborators and students. This is designed to streamline this process by offering:
+- A responsive and elegant frontend for highlighting lab activities
+- A CMS-powered backend (Sanity) for effortless content management
+- Secure, role-based access with Clerk for lab members to publish and update content
 
-First, run the development server:
+## 💻 Technology Stack
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=typescript,nextjs,tailwindcss,clerk"
+    />
+  </a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+🌐 ![**Check Out the Live Site**](https://maleknazn.ca)
