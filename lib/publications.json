@@ -1,0 +1,529 @@
+{
+    "publications": [
+        {
+            "title": "Towards Data-Driven Requirements Engineering",
+            "year": 2016,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7325177/",
+            "authors": "Walid Maalej and Maelnaz Nayebi and Timo Johann and Guenther Ruhe",
+            "citation": "Software, IEEE, 2016"
+        },
+        {
+            "title": "Naming the pain in requirements engineering",
+            "year": 2017,
+            "url": "https://link.springer.com/article/10.1007/s10664-016-9451-7",
+            "authors": "D M\u00e9ndez Fern\u00e1ndez and Stefan Wagner and Marcos Kalinowski and Michael Felderer and Priscilla Mafra and Antonio Vetr\u00f2 and Tayana Conte and M-T Christiansson and Desmond Greer and Casper Lassenius and Tomi M\u00e4nnist\u00f6 and Maleknaz Nayabi and Markku Oivo and Birgit Penzenstadler and Dietmar Pfahl and Rafael Prikladnicki and Guenther Ruhe and Andr\u00e9 Schekelmann and Sagar Sen and Rodrigo Spinola and Ahmet Tuzcu and Jose Luis de la Vara and Roel Wieringa",
+            "citation": "Empirical software engineering 22 (5), 2298-2338, 2017"
+        },
+        {
+            "title": "Release Practices for Mobile Apps--What do Users and Developers Think?",
+            "year": 2016,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7476674/",
+            "authors": "Maleknaz Nayebi and Bram Adams and Guenther Ruhe",
+            "citation": "2016 ieee 23rd international conference on software analysis, evolution, and \u2026, 2016"
+        },
+        {
+            "title": "Status quo in requirements engineering: A theory and a global family of surveys",
+            "year": 2019,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3306607",
+            "authors": "Stefan Wagner and Daniel M\u00e9ndez Fern\u00e1ndez and Michael Felderer and Antonio Vetr\u00f2 and Marcos Kalinowski and Roel Wieringa and Dietmar Pfahl and Tayana Conte and Marie-Therese Christiansson and Desmond Greer and Casper Lassenius and Tomi M\u00e4nnist\u00f6 and Maleknaz Nayebi and Markku Oivo and Birgit Penzenstadler and Rafael Prikladnicki and Guenther Ruhe and Andr\u00e9 Schekelmann and Sagar Sen and Rodrigo Sp\u00ednola and Ahmed Tuzcu and Jose Luis de la Vara and Dietmar Winkler",
+            "citation": "ACM Transactions on Software Engineering and Methodology (TOSEM) 28 (2), 1-48, 2019"
+        },
+        {
+            "title": "The art and science of analyzing software data",
+            "year": 2015,
+            "url": "https://books.google.com/books?hl=en&lr=&id=g-HIBAAAQBAJ&oi=fnd&pg=PP1&dq=info:UGbhKD1x--wJ:scholar.google.com&ots=oovzGPItcw&sig=MLwUfWu6cQHrhfE02zVRH76xUFk",
+            "authors": "Christian Bird and Tim Menzies and Thomas Zimmermann",
+            "citation": "Elsevier, 2015"
+        },
+        {
+            "title": "App store mining is not enough for app improvement",
+            "year": 2018,
+            "url": "https://link.springer.com/article/10.1007/s10664-018-9601-1",
+            "authors": "Maleknaz Nayebi and Henry Cho and Guenther Ruhe",
+            "citation": "Empirical Software Engineering, 1-31, 2018"
+        },
+        {
+            "title": "What makes agile software development agile?",
+            "year": 2021,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9496156/",
+            "authors": "Marco Kuhrmann and Paolo Tell and Regina Hebig and Jil Kl\u00fcnder and J\u00fcrgen M\u00fcnch and Oliver Linssen and Dietmar Pfahl and Michael Felderer and Christian R Prause and Stephen G MacDonell and Joyce Nakatumba-Nabende and David Raffo and Sarah Beecham and Eray T\u00fcz\u00fcn and Gustavo Lopez and Nicolas Paez and Diego Fontdevila and Sherlock A Licorish and Steffen K\u00fcpper and Guenther Ruhe and Eric Knauss and \u00d6zden \u00d6zcan-Top and Paul Clarke and Fergal McCaffery and Marcela Genero and Aurora Vizcaino and Mario Piattini and Marcos Kalinowski and Tayana Conte and Rafael Prikladnicki and Stephan Krusche and Ahmet Co\u015fkun\u00e7ay and Ezequiel Scott and Fabio Calefato and Svetlana Pimonova and Rolf-Helge Pfeiffer and Ulrik Pagh Schultz and Rogardt Heldal and Masud Fazal-Baqaie and Craig Anslow and Maleknaz Nayebi and Kurt Schneider and Stefan Sauer and Dietmar Winkler and Stefan Biffl and Maria Cecilia Bastarrica and Ita Richardson",
+            "citation": "IEEE transactions on software engineering 48 (9), 3523-3539, 2021"
+        },
+        {
+            "title": "Naming the pain in requirements engineering: contemporary problems, causes, and effects in practice",
+            "year": 2016,
+            "url": "https://core.ac.uk/download/pdf/74404030.pdf",
+            "authors": "Daniel M\u00e9ndez Fern\u00e1ndez and Stefan Wagner and Marcos Kalinowski and Michael Felderer and Priscilla Mafra and Antonio Vetr\u00f2 and Tayana Conte and Marie-Therese Christiansson and Desmond Greer and Casper Lassenius and Tomi M\u00e4nnist\u00f6 and Maleknaz Nayabi and Markku Oivo and Birgit Penzenstadler and Dietmar Pfahl and Rafael Prikladnicki and G\u00fcnther Ruhe and Andr\u00e9 Schekelmann and Sagar Sen and Rodrigo Spinola and Ahmet Tuzcu and Jose Luis de la Vara and Roel Wieringa",
+            "citation": ""
+        },
+        {
+            "title": "Software project management in a changing world",
+            "year": 2014,
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-55035-5.pdf",
+            "authors": "G\u00fcnther Ruhe and Claes Wohlin",
+            "citation": "Springer, 2014"
+        },
+        {
+            "title": "Crowdsourced exploration of mobile app features: A case study of the fort mcmurray wildfire",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7961668/",
+            "authors": "Maleknaz Nayebi and Mahshid Marbouti and Rache Quapp and Frank Maurer and Guenther Ruhe",
+            "citation": "2017 IEEE/ACM 39th International Conference on Software Engineering \u2026, 2017"
+        },
+        {
+            "title": "Which Version Should be Released to App Store?",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8170119/",
+            "authors": "Maleknaz Nayebi and Homayoon Farrahi and Guenther Ruhe",
+            "citation": "Symposium on Empirical Software Engineering and Measurement (ESEM), 2017"
+        },
+        {
+            "title": "Analytical Product Release Planning",
+            "year": 2015,
+            "url": "https://www.sciencedirect.com/science/article/pii/B9780124115194000197",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe",
+            "citation": "The Art and Science of Analyzing Software Data, 550 - 580, 2015"
+        },
+        {
+            "title": "App store mining is not enough",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7965286/",
+            "authors": "Maleknaz Nayebi and Henry Cho and Homayoon Farrahi and Guenther Ruhe",
+            "citation": "2017 IEEE/ACM 39th International Conference on Software Engineering \u2026, 2017"
+        },
+        {
+            "title": "A longitudinal study of identifying and paying down architecture debt",
+            "year": 2019,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8804435/",
+            "authors": "Maleknaz Nayebi and Yuanfang Cai and Rick Kazman and Guenther Ruhe and Qiong Feng and Chris Carlson and Francis Chew",
+            "citation": "2019 IEEE/ACM 41st International Conference on Software Engineering \u2026, 2019"
+        },
+        {
+            "title": "Prompt engineering or fine tuning: An empirical assessment of large language models in automated software engineering tasks",
+            "year": 2023,
+            "url": "https://arxiv.org/abs/2310.10508",
+            "authors": "Jiho Shin and Clark Tang and Tahmineh Mohati and Maleknaz Nayebi and Song Wang and Hadi Hemmati",
+            "citation": "arXiv preprint arXiv:2310.10508, 2023"
+        },
+        {
+            "title": "Effective customer relationship management at ATB financial: a case study on industry-academia collaboration in data analytics",
+            "year": 2018,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-60255-4_4",
+            "authors": "Ian Hargreaves and Dylan Roth and Muhammad Rezaul Karim and Maleknaz Nayebi and G\u00fcnther Ruhe",
+            "citation": "Highlighting the importance of big data management and analysis for various \u2026, 2018"
+        },
+        {
+            "title": "Data-driven requirements engineering-an update",
+            "year": 2019,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8804436/",
+            "authors": "Walid Maalej and Maleknaz Nayebi and Guenther Ruhe",
+            "citation": "2019 IEEE/ACM 41st International Conference on Software Engineering \u2026, 2019"
+        },
+        {
+            "title": "Asymmetric release planning: Compromising satisfaction against dissatisfaction",
+            "year": 2018,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8307259/",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe",
+            "citation": "IEEE Transactions on Software Engineering 45 (9), 839-857, 2018"
+        },
+        {
+            "title": "Optimized Functionality for Super Mobile Apps",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8049145/",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe",
+            "citation": "Requirements Engineering (RE) conference, 2017"
+        },
+        {
+            "title": "The Vision: Requirements Engineering in Society",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8049167/",
+            "authors": "Guenther Ruhe and Maleknaz Nayebi and Christof Ebert",
+            "citation": "Requirements Engineering (RE) conference, 2017"
+        },
+        {
+            "title": "A bibliometric assessment of software engineering themes, scholars and institutions (2013\u20132020)",
+            "year": 2021,
+            "url": "https://www.sciencedirect.com/science/article/pii/S0164121221001266",
+            "authors": "W Eric Wong and Nikolaos Mittas and Elvira Maria Arvanitou and Yihao Li",
+            "citation": "Journal of Systems and Software 180, 111029, 2021"
+        },
+        {
+            "title": "Anatomy of functionality deletion: an exploratory study on mobile apps",
+            "year": 2018,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3196398.3196410",
+            "authors": "Maleknaz Nayebi and Konstantin Kuznetsov and Paul Chen and Andreas Zeller and Guenther Ruhe",
+            "citation": "Proceedings of the 15th International Conference on Mining Software \u2026, 2018"
+        },
+        {
+            "title": "Analytics for Software Project Management--Where are We and Where do We Go?",
+            "year": 2015,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7426631/",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe and Roberta Cabral Mota and Mujeeb Mufti",
+            "citation": "2015 30th IEEE/ACM International Conference on Automated Software \u2026, 2015"
+        },
+        {
+            "title": "An open innovation approach in support of product release decisions",
+            "year": 2014,
+            "url": "https://dl.acm.org/doi/abs/10.1145/2593702.2593709",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe",
+            "citation": "Proceedings of the 7th International Workshop on Cooperative and Human \u2026, 2014"
+        },
+        {
+            "title": "Developers' Perception of GitHub Actions: A Survey Analysis",
+            "year": 2023,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3593434.3593475",
+            "authors": "Sk Golam Saroar and Maleknaz Nayebi",
+            "citation": "International Conference on Evaluation and Assessment in Software \u2026, 2023"
+        },
+        {
+            "title": "Eye of the Mind: Image Processing for Social Coding",
+            "year": 2020,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3377816.3381723",
+            "authors": "Maleknaz Nayebi",
+            "citation": "International Conference on Software Engineering (ICSE), 2020"
+        },
+        {
+            "title": "Analysis of marketed versus not-marketed mobile app releases",
+            "year": 2016,
+            "url": "https://dl.acm.org/doi/abs/10.1145/2993274.2993281",
+            "authors": "Maleknaz Nayebi and Homayoon Farrahi and Guenther Ruhe",
+            "citation": "Proceedings of the 4th International Workshop on Release Engineering, 1-4, 2016"
+        },
+        {
+            "title": "ESSMArT way to manage customer requests",
+            "year": 2019,
+            "url": "https://link.springer.com/article/10.1007/s10664-019-09721-w",
+            "authors": "Maleknaz Nayebi and Liam Dicke and Ron Ittyipe and Chris Carlson and Guenther Ruhe",
+            "citation": "Empirical Software Engineering 24, 3755-3789, 2019"
+        },
+        {
+            "title": "Documentation of Machine Learning Software",
+            "year": 2020,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9054844/",
+            "authors": "Yalda Hashemi and Maleknaz Nayebi and Giuliano Antoniol",
+            "citation": "27th IEEE International Conference on. Software Analysis, Evolution and \u2026, 2020"
+        },
+        {
+            "title": "Hybrid Labels are the New Measure!",
+            "year": 2018,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8239937/",
+            "authors": "Maleknaz Nayebi and Shaikh Jeeshan Kabeer and Guenther Ruhe and Chris Carlson and Francis Chew",
+            "citation": "Software, IEEE, 2018"
+        },
+        {
+            "title": "Analytical open innovation for value-optimized service portfolio planning",
+            "year": 2014,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-08738-2_19",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe",
+            "citation": "Software Business. Towards Continuous Value Delivery: 5th International \u2026, 2014"
+        },
+        {
+            "title": "Mining treatment-outcome constructs from sequential software engineering data",
+            "year": 2019,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8620369/",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe and Thomas Zimmermann",
+            "citation": "IEEE Transactions on Software Engineering 47 (2), 393-411, 2019"
+        },
+        {
+            "title": "What counts is decisions, not numbers\u2014Toward an analytics design sheet",
+            "year": 2016,
+            "url": "https://www.sciencedirect.com/science/article/pii/B9780128042069000222",
+            "authors": "Guenther Ruhe and Maleknaz Nayebi",
+            "citation": "Perspectives on Data Science for Software Engineering 22, 113-116, 2016"
+        },
+        {
+            "title": "More insight from being more focused: analysis of clustered market apps",
+            "year": 2016,
+            "url": "https://dl.acm.org/doi/abs/10.1145/2993259.2993266",
+            "authors": "Maleknaz Nayebi and Homayoon Farrahi and Ada Lee and Henry Cho and Guenther Ruhe",
+            "citation": "Proceedings of the International Workshop on App Market Analytics, 30-36, 2016"
+        },
+        {
+            "title": "Predicting the Vector Impact of Change-An Industrial Case Study at Brightsquid",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8170093/",
+            "authors": "Shaikh Jeeshan Kabeer and Maleknaz Nayebi and Guenther Ruhe and Chris Carlson and Francis Chew",
+            "citation": "International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017"
+        },
+        {
+            "title": "Trade-off service portfolio planning\u2013a case study on mining the Android app market",
+            "year": 2015,
+            "url": "https://peerj.com/preprints/1354/",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe",
+            "citation": "PeerJ PrePrints, 2015"
+        },
+        {
+            "title": "A two-staged survey on release readiness",
+            "year": 2017,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3084226.3084254",
+            "authors": "SM Didar Al Alam and Maleknaz Nayebi and Dietmar Pfahl and Guenther Ruhe",
+            "citation": "Proceedings of the 21st International Conference on Evaluation and \u2026, 2017"
+        },
+        {
+            "title": "City on the river: visualizing temporal collaboration",
+            "year": 2019,
+            "url": "http://individual.utoronto.ca/klyons/files/CityOnTheRiver_Take2-FInalSubmitted-CameraReady.pdf",
+            "authors": "Jessica Perrie and Jing Xie and Maleknaz Nayebi and Marios Fokaefs and Kelly Lyons and Eleni Stroulia",
+            "citation": "Proceedings of the 29th Annual International Conference on Computer Science \u2026, 2019"
+        },
+        {
+            "title": "Analysis of software service usage in healthcare communication services",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8004374/",
+            "authors": "Ashkan Hemmati and Chris Carlson and Maleknaz Nayebi and Guenther Ruhe and Chad Saunders",
+            "citation": "2017 IEEE International Conference on Software Quality, Reliability and \u2026, 2017"
+        },
+        {
+            "title": "Ownership in the Hands of Accountability: A case Study and a Developer Survey at Brighsquid",
+            "year": 2023,
+            "url": "#",
+            "authors": "Umme Ayman Koana and Francis Chew and Chris Carlson and Maleknaz Nayebi",
+            "citation": "The ACM Joint European Software Engineering Conference and Symposium on the \u2026, 2023"
+        },
+        {
+            "title": "Requirements engineering (re) for social good: Re cares [requirements]",
+            "year": 2019,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8611463/",
+            "authors": "Alexander Dekhtyar and Jane Huffman Hayes and Irit Hadar and Erin Combs and Alessio Ferrari and Sarah Gregory and Jennifer Horkoff and Meira Levy and Maleknaz Nayebi and Barbara Paech and Jared Payne and Matt Primrose and Paola Spoletini and Shell Clarke and Chuck Brophy and Daniel Amyot and Walid Maalej and Guenther Ruhe and Jane Cleland-Huang and Didar Zowghi",
+            "citation": "IEEE Software 36 (1), 86-94, 2019"
+        },
+        {
+            "title": "Image-based Communication on Social Coding Platforms",
+            "year": 2023,
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2609",
+            "authors": "Maleknaz Nayebi and Bram Adams",
+            "citation": "Journal of Software: Evolution and Process, 2023"
+        },
+        {
+            "title": "Data driven requirements engineering: Implications for the community",
+            "year": 2018,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8491165/",
+            "authors": "Maleknaz Nayebi",
+            "citation": "2018 IEEE 26th International Requirements Engineering Conference (RE), 439-441, 2018"
+        },
+        {
+            "title": "User Driven Functionality Deletion for Mobile Apps",
+            "year": 2023,
+            "url": "https://ieeexplore.ieee.org/abstract/document/10260783/",
+            "authors": "Maleknaz Nayebi and Konstantin Kuznetsov and Andreas Zeller and Guenther Ruhe",
+            "citation": "Proceedings of the 31st IEEE International Conference on Requiremenets \u2026, 2023"
+        },
+        {
+            "title": "Example driven code review explanation",
+            "year": 2022,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3544902.3546639",
+            "authors": "Shadikur Rahman and Umme Ayman Koana and Maleknaz Nayebi",
+            "citation": "Proceedings of the 16th ACM/IEEE International Symposium on Empirical \u2026, 2022"
+        },
+        {
+            "title": "From RE Cares to SE Cares: software engineering for social good, one venue at a time",
+            "year": 2020,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3377815.3381373",
+            "authors": "Alex Dekhtyar and Jane Huffman Hayes and Jared Payne and Tingting Yu and Jennifer Horkoff and Gunter Mussbacher and Irit Hadar and Meira Levy and Barbara Paech and Kim Youngjoon and Jo Eunjung and Heo Seungbum and Hong Youngtaek and Nam Byoungyoung and Koh Sanggon",
+            "citation": "Proceedings of the ACM/IEEE 42nd International Conference on Software \u2026, 2020"
+        },
+        {
+            "title": "Analytical Release Management for Mobile Apps",
+            "year": 2018,
+            "url": "https://prism.ucalgary.ca/bitstreams/f4513306-278d-4d7e-9b84-d490fec6d553/download",
+            "authors": "Maleknaz Nayebi",
+            "citation": "PhD thesis, University of Calgary, 2018"
+        },
+        {
+            "title": "Examining Ownership Models in Software Teams: A Systematic Literature Review and a Replication Study",
+            "year": 2024,
+            "url": "#",
+            "authors": "Umme Ayman Koana and Quang Le Hy and Sadikur Rahman and Chris Carlson and Francis Chew and Maleknaz Nayebi",
+            "citation": "Empercial Software Engineering (ESE) Journal, 2024"
+        },
+        {
+            "title": "GitHub Marketplace for Practitioners and Researchers to Date: A Systematic Analysis of the Knowledge Mobilization Gap in Open Source Software Automation",
+            "year": 2022,
+            "url": "https://arxiv.org/abs/2208.00332",
+            "authors": "SK Gholam Saroar and Waseefa Ahmed and Maleknaz Nayebi",
+            "citation": "https://arxiv.org/abs/2208.00332, 2022"
+        },
+        {
+            "title": "Mining Reddit Data to Elicit Students' Requirements During COVID-19 Pandemic",
+            "year": 2023,
+            "url": "https://ieeexplore.ieee.org/abstract/document/10260952/",
+            "authors": "Shadikur Rahmna and Faiz Ahmed and Maleknaz Nayebi",
+            "citation": "Proceedings of the 31st IEEE International Conference on Requiremenets \u2026, 2023"
+        },
+        {
+            "title": "Negative Results of Image Processing for Identifying Duplicate Questions on Stack Overflow",
+            "year": 2024,
+            "url": "https://arxiv.org/abs/2407.05523",
+            "authors": "Faiz Ahmed and Suprakash Datta and Maleknaz Nayebi",
+            "citation": "18th ACM/IEEE International Symposium on Empirical Software Engineering and \u2026, 2024"
+        },
+        {
+            "title": "Product-focused software process improvement",
+            "year": 2018,
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-03673-7.pdf",
+            "authors": "Marco Kuhrmann and Kurt Schneider and Dietmar Pfahl and Sousuke Amasaki and Marcus Ciolkowski and Regina Hebig and Paolo Tell and Jil Kl\u00fcnder and Steffen K\u00fcpper",
+            "citation": "Springer, 2018"
+        },
+        {
+            "title": "Recommending and Release Planning of User-Driven Functionality Deletion for Mobile Apps",
+            "year": 2024,
+            "url": "https://link.springer.com/article/10.1007/s00766-024-00430-5",
+            "authors": "Maleknaz Nayebi and Konstantin Kuznetsov and Andreas Zeller and Nayebi Ruhe",
+            "citation": "Requirements Engineering Journal (REJ), 2024"
+        },
+        {
+            "title": "GitHub Marketplace for Automation and Innovation in Software Production",
+            "year": 2024,
+            "url": "https://www.sciencedirect.com/science/article/pii/S0950584924001277",
+            "authors": "Sk. Golam Saroar and Waseefa Ahmed and Elmira Onagh and Maleknaz Nayebi",
+            "citation": "Information and Software Technology (IST) Journal, 2024"
+        },
+        {
+            "title": "NaPiRE data set 2014",
+            "year": 2018,
+            "url": "https://scholar.google.com/scholar?cluster=4015793929763179198&hl=en&oi=scholarr",
+            "authors": "Daniel Mendez and Stefan Wagner and Markus Kalinowski and Michael Felderer and Priscilla Mafra and Antonio Vetro and Tayana Conte and Marie-Therese Christiansson and Desmond Greer and Casper Lassenius and Tomi M\u00e4nnist\u00f6 and Maleknaz Nayebi and Markku Oivo and Birgit Penzenstadler and Dietmar Pfahl and Rafael Prikladnicki and Guenther Ruhe and Andre Schekelmann and Sagar Sen and Rafael Spinola and Jose-Luis de la Vara and Ahmet Tuzcu and Roel Wieringa",
+            "citation": "DOI: https://doi. org/10.6084/m9. figshare 5845083, v1, 2018"
+        },
+        {
+            "title": "Summary of the 1st international workshop on open innovation in software engineering (OISE 2015)",
+            "year": 2015,
+            "url": "https://dl.acm.org/doi/abs/10.1145/2785592.2785624",
+            "authors": "Maleknaz Nayebi and Krzysztof Wnuk",
+            "citation": "Proceedings of the 2015 International Conference on Software and System \u2026, 2015"
+        },
+        {
+            "title": "Requirements Behind Reviews: How do Software Practitioners See App User Reviews to Think of Requirements?",
+            "year": 2021,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3493244.3493245",
+            "authors": "Walter Takashi Nakamura and Jos\u00e9 Cezar de Souza and L\u00edgia M\u00e1rcia Teixeira and Afonso Silva and Rogenis da Silva and Bruno Gadelha and Tayana Conte",
+            "citation": "Proceedings of the XX Brazilian Symposium on Software Quality, 1-9, 2021"
+        },
+        {
+            "title": "Re cares\u2019 18: First re cares workshop and event-re cares about giving back to alberta",
+            "year": 2018,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8491164/",
+            "authors": "Jane Huffman Hayes and Maleknaz Nayebi and Alex Dekhtyar and Barbara Paech",
+            "citation": "2018 IEEE 26th International Requirements Engineering Conference (RE), 436-438, 2018"
+        },
+        {
+            "title": "Naming the pain in requirements engineering: Contemporary problems, causes, and effects in practice",
+            "year": 2017,
+            "url": "https://publica.fraunhofer.de/entities/publication/5a2f1518-db3c-43b3-b937-09b94b9659fe/details",
+            "authors": "S Wagner and M Kalinowski and M Felderer and P Mafra and A Vetr\u00f2 and T Conte and M-T Christiansson and D Greer and C Lassenius and T M\u00e4nnist\u00f6 and M Nayabi and M Oivo and B Penzenstadler and D Pfahl and R Prikladnicki and G Ruhe and A Schekelmann and S Sen and R Spinola and A Tuzcu and JL de la Vara and R Wieringa",
+            "citation": ""
+        },
+        {
+            "title": "An open innovation approach towards feature elicitation for product release planning",
+            "year": 2013,
+            "url": "https://publications.polymtl.ca/41009/",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe",
+            "citation": ""
+        },
+        {
+            "title": "Correction to: Examining ownership models in software teams",
+            "year": 2025,
+            "url": "https://link.springer.com/article/10.1007/s10664-024-10566-1",
+            "authors": "Umme Ayman Koana and Quang Hy Le and Shaikur Raman and Chris Carlson and Francis Chew and Maleknaz Nayebi",
+            "citation": "Empirical Software Engineering 30 (1), 4, 2025"
+        },
+        {
+            "title": "Managing Technical Debt",
+            "year": 2015,
+            "url": "https://publications.polymtl.ca/41007/",
+            "authors": "Maleknaz Nayebi and K Jantzen and Guenther Ruhe",
+            "citation": "University of Calgary, 2015"
+        },
+        {
+            "title": "Tracking the Evolution of Android Mobile Apps by Release Cycle Patterns-An Empirical Study",
+            "year": 2015,
+            "url": "https://publications.polymtl.ca/41010/",
+            "authors": "Maleknaz Nayebi and Guenther Ruhe and Bram Adams",
+            "citation": "University of Calgary, 2015"
+        },
+        {
+            "title": "Feasibility study on Android app store mining",
+            "year": 2014,
+            "url": "https://publications.polymtl.ca/41005/",
+            "authors": "Maleknaz Nayebi",
+            "citation": "University of Calgary, 2014"
+        },
+        {
+            "title": "The Gandhi-Washington Method for Extracting Patterns from Versioning Histories",
+            "year": 2014,
+            "url": "https://publications.polymtl.ca/41006/",
+            "authors": "Maleknaz Nayebi",
+            "citation": "University of Calgary, 2014"
+        },
+        {
+            "title": "Software Project Management for the 21st Century-A Literature Study",
+            "year": 2013,
+            "url": "https://publications.polymtl.ca/41004/",
+            "authors": "Maleknaz Nayebi",
+            "citation": "University of Calgary, 2013"
+        },
+        {
+            "title": "Executive Framework for Service Oriented Architecture",
+            "year": 2012,
+            "url": "https://publications.polymtl.ca/41003/",
+            "authors": "Maleknaz Nayebi",
+            "citation": "Amirkabir University of Technology, 2012"
+        },
+        {
+            "title": "Fold different orthogonal boxes with the same pattern: Pattern specification",
+            "year": 2010,
+            "url": "https://publications.polymtl.ca/41001/",
+            "authors": "Maleknaz Nayebi",
+            "citation": ""
+        },
+        {
+            "title": "Recommender Systems concept, approaches and its effect on e-commerce",
+            "year": 2010,
+            "url": "https://publications.polymtl.ca/41002/",
+            "authors": "Maleknaz Nayebi",
+            "citation": "Amirkabir University of Technology, 2010"
+        },
+        {
+            "title": "Extension Decisions in Open Source Software Ecosystem",
+            "year": "Year Unknown",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975545",
+            "authors": "Elmira Onagh and Maleknaz Nayebi",
+            "citation": "Available at SSRN 4975545, 0"
+        },
+        {
+            "title": "List of PC Members",
+            "year": "Year Unknown",
+            "url": "https://www.computer.org/csdl/proceedings-article/re/2024/951100z017/1ZABF6aLej6",
+            "authors": "Achiya Elyasaf and Alexander Serebrenik and Anas Mahmoud and Anna Perini and Trento Atif Mashkoor and Barbara Paech and Carina Alves and Dan Berry and Daniel Amyot and Davide Fucci and Dirk van der Linden and Eduard C Groen and Elda Paja and Fatma Ba\u015fak Aydemir and Gunter Mussbacher and Iris Reinhartz-Berger and Jaelson Castro and Jane Cleland-Huang and Jelena Zdravkovic and Jennifer Horkoff and Jo\u00e3o Ara\u00fajo and Joerg Doerr and Fraunhofer John Grundy and Julio Cesar Leite and UFBA Krzysztof Wnuk and BTH Kurt Schneider and Liliana Pasquale and Maleknaz Nayebi and Marcela Ruiz and Martin Glinz and Matthias Book and Maya Daneva and Mehrdad Sabetzadeh",
+            "citation": ""
+        },
+        {
+            "title": "Student Research Competition",
+            "year": "Year Unknown",
+            "url": "https://www.computer.org/csdl/proceedings-article/icse-companion/2024/050200z029/1XVHCqxpcw8",
+            "authors": "Alessio Gambi and Alicia Grubb and Anne Hess and Dario Di Nucci and Davide Fucci and Ding Li and Dongsun Kim and Eduard C Groen and Fabio Calefato and Fabio Palomba and Fernanda Madeiral and Haipeng Cai and Jooyong Yi and Joshua Garcia and Lili Wei and Maleknaz Nayebi and Matthias Galster and Michael Hilton and Raghu Reddy and Rahul Purandare and Sebastiano Panichella and Shaukat Ali and Shinpei Hayashi and Xi Zheng and Xiao Liu and Zhiqiang Zuo",
+            "citation": ""
+        },
+        {
+            "title": "ICSE-SEIS 2024",
+            "year": "Year Unknown",
+            "url": "https://www.computer.org/csdl/proceedings-article/icse-seis/2024/049900z009/1XSo6JjyWcM",
+            "authors": "Bonita Sharif and Xin Xia and Akinori Ihara and Alessio Ferrari and Alexander Nolte and Andreea Vescan and Chanchal K Roy and Csaba Nagy and Cuiyun Gao and David Lo and Emilia Mendes and Eunsuk Kang and Fabio Calefato and Gias Uddin and Hideaki Hata and Huilian Sophie Qiu and Igor Scaliante Wiese and Ita Richardson and Jennifer McIntosh and Kui Liu and Letizia Jaccheri and Lingfeng Bao and Maleknaz Nayebi and Mary S\u00e1nchez-Gord\u00f3n and Meng Yan and Michael J Decker",
+            "citation": ""
+        },
+        {
+            "title": "Current Trends in Tensorflow and the Future of Ml Software Documentation: One Documentation Does Not Fit All",
+            "year": "Year Unknown",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865036",
+            "authors": "Sharuka Promodya Thirimann and Elim Yoseph Lemang and Giuliano Antoniol and Maleknaz Nayebi",
+            "citation": "Current Trends in Tensorflow and the Future of Ml Software Documentation \u2026, 0"
+        },
+        {
+            "title": "2023 IEEE 31st International Requirements Engineering Conference (RE)",
+            "year": "Year Unknown",
+            "url": "https://www.computer.org/csdl/proceedings-article/re/2023/268900z005/1QOdckc6zwA",
+            "authors": "Claes Wohlin and Federica Sarro and Maleknaz Nayebi and Konstantin Kuznetsov and Guenther Ruhe and Tianjian Huang and Vaishnavi Kaulagi and Jane Cleland-Huang",
+            "citation": ""
+        }
+    ]
+}
